@@ -30,7 +30,7 @@ cd recurlit
 go build
 ```
 
-This produces a `recurlit` binary in the current directory. Optionally install it to your PATH:
+This produces a `recurlit` binary in the current directory. Optionally [install](https://go.dev/doc/tutorial/compile-install) it to your PATH:
 
 ```bash
 go install
